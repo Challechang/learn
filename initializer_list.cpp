@@ -20,9 +20,17 @@ public:
     }
 };
 
+void print(std::initializer_list<int> vals) {
+    for (auto& val: vals) {
+        std::cout << val << std::endl;
+    }
+}
+
 int main() {
     A a = {1, 1.2};
     A a1 = {2, 3.3};
     A arr[2] = {a, a1};
+
+    print({1, 2, 3, 4, 5, 6});
     std::cout << std::endl;
 }

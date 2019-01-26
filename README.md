@@ -7,8 +7,15 @@
   
  *********************************************
  
+ ### [uniform_initialization.cpp](uniform_initialization.cpp): 对c++ 2.0提供的统一初始化进行测试。
  
-
+ *********************************************
  
-
+ ### [initializer_list.cpp](initializer_list.cpp): 对c++ 2.0中新提供的initializer_list进行测试。
+ 
+ *********************************************
+ 
+ ### [default_delete.cpp](default_delete.cpp): 对C++ 2.0中关键字delete和default的测试。
+ 
+ *********************************************
  
