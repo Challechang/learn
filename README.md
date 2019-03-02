@@ -30,4 +30,8 @@
  ### [decltype.cpp](decltype.cpp): 对C++ 2.0中的关键字decltype关键字的测试。
  
  *********************************************
+
+ ### [hash_function.cpp](hash_function.cpp): 对c++ hash function进行测试。
+
+ *********************************************
  
