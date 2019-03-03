@@ -17,7 +17,7 @@ private:
 public:
     Person() = default;
 
-    Person(const std::string& name, const std::string sex, const short age) {
+    Person(const std::string& name, const std::string& sex, const short age) {
         this->name = name;
         this->sex = sex;
         this->age = age;
